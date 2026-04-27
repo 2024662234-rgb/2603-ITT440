@@ -19,6 +19,17 @@ In modern applications, large datasets often contain incomplete, inconsistent, o
 In order to find the best way to improve speed, this research compares sequential, concurrent (threading), and parallel (multiprocessing) techniques to the challenge of effectively cleaning huge CSV datasets.
 
 ---
+## System Environment
+
+| Parameter | Details |
+|---|---|
+| OS | Windows 11 |
+| Python Version | Python 3.14 |
+| IDE | Visual Studio Code |
+| CPU Cores | Auto-detected  |
+| Execution Modes| Sequential, Threading, Multiprocessing |
+
+---
 
 ## 🎯 Objectives
 - Process and clean large datasets (millions of records)
